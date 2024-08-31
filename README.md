@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuranga-2001&label=Profile%20views&color=0e75b6&style=flat" alt="isuranga-2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuranga-2001&theme=onestar&no-frame=true&row=1" alt="isuranga-2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuranga-2001&theme=onestar&no-frame=true&column=9" alt="isuranga-2001" /></a> </p>
 
 - 🎓 I’m currently an undergraduate of **University of Moratuwa, Faculty of Information Technology.**
 
