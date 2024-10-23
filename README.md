@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isuranga Warnasooriya</h1>
 <h3 align="center">A passionate Software Engineering Intern from Sri Lanka</h3>
-<h4 align="center">🧑‍💻🔍Bug hunding since 2018</h4><h2 align="left">
+<h4 align="center">🧑‍💻🔍Bug hunting since 2018</h4><h2 align="left">
 
 ###
 
