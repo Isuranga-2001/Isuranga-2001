@@ -116,12 +116,17 @@
 
 ###
 
+<script>
+  const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const theme = isDarkMode ? 'github_dark' : 'default';
+</script>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Isuranga-2001&theme=onestar&column=8&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="125" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Isuranga-2001&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuranga-2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=Isuranga-2001&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isuranga-2001&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isuranga-2001&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=${theme}&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuranga-2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=${theme}&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Isuranga-2001&theme=${theme}&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isuranga-2001&radius=16&theme=${theme}&area=true&order=5&hide_border=true&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
