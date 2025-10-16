@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Isuranga Warnasooriya</h1>
 <h3 align="center">A passionate Software Engineering Intern from Sri Lanka</h3>
-<h4 align="center">🧑‍💻🔍Bug hunting since 2018</h4><h2 align="left">
+<h4 align="center">🧑‍💻🔍Bug hunting since 2018</h4>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Isuranga-2001/count.svg?"  />
+  <h3>📊 Profile Views & Visitors</h3>
+  <img src="https://komarev.com/ghpvc/?username=Isuranga-2001&style=for-the-badge&color=blue&abbreviated=true" alt="Profile views" />
 </div>
 
 ###
+<h2 align="center">📈 GitHub Statistics & Achievements</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/isuranga-warnasooriya-588244187/" target="_blank">
@@ -120,6 +122,13 @@
   <img src="https://github-profile-trophy.vercel.app?username=Isuranga-2001&theme=onestar&column=8&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="125" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Isuranga-2001&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isuranga-2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Isuranga-2001&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isuranga-2001&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+<h2 align="center">💬 Let's Connect</h2>
+
+<p align="center">
+  Feel free to reach out for collaborations or just a friendly chat! You can find me on various platforms linked above.
+</p>
