@@ -34,13 +34,31 @@
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,html,css,matlab" height="45" style="margin:4px;" alt="Languages" />
+  <h4>Programming Languages</h4>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,cs,go,html,css,matlab" height="50" style="margin-bottom:4px;" alt="Programming Languages" />
+  <a href="https://ballerina.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ballerinaio/ballerinaio-icon.svg" height="40" style="margin-bottom:8px; margin-left:5px;" alt="Ballerina" />
+  </a>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,angular,express,flask,django,nodejs,nestjs,dotnet" height="45" style="margin:4px;" alt="Frameworks" />
+
+  <h4>Frameworks & Libraries</h4>
+  <img src="https://skillicons.dev/icons?i=react,angular,express,flask,django,nodejs,nestjs,dotnet,spring" height="50" style="margin:8px;" alt="Frameworks & Libraries" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,linux,nginx" height="45" style="margin:4px;" alt="DevOps" />
+
+  <h4>Cloud & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,linux,nginx" height="50" style="margin:8px;" alt="Cloud & DevOps" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,figma,blender,pycharm,vscode,arduino" height="45" style="margin:4px;" alt="Tools" />
+
+  <h4>Databases</h4>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="50" style="margin:8px;" alt="Databases" />
+  <br/>
+
+  <h4>Tools & IDEs</h4>
+  <img src="https://skillicons.dev/icons?i=figma,blender,pycharm,visualstudio,vscode" height="50" style="margin:8px;" alt="Tools & IDEs" />
+  <br/>
+
+  <h4>Hardware & Others</h4>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="50" style="margin:8px;" alt="Hardware & Others" />
 </div>
 
 <br/>
